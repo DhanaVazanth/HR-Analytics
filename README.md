@@ -1,4 +1,4 @@
-# 📊 HR Analytics
+#  HR Analytics
 
 An end-to-end **HR Analytics and Exploratory Data Analysis (EDA)** project focused on analyzing employee data, identifying workforce patterns, and generating actionable insights using **Python, Pandas, Matplotlib, Seaborn, Jupyter Notebook, and Excel**.
 
